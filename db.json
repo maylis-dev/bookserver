@@ -1,0 +1,192 @@
+{
+  "books": [
+    {
+      "bookId": 101,
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "category": "fiction",
+      "image": "https://example.com/images/1984.jpg"
+    },
+    {
+      "bookId": 102,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishedDate": "1960-07-11",
+      "category": "fiction",
+      "image": "https://example.com/images/to-kill-a-mockingbird.jpg"
+    },
+    {
+      "bookId": 103,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishedDate": "1925-04-10",
+      "category": "fiction",
+      "image": "https://example.com/images/the-great-gatsby.jpg"
+    },
+    {
+      "bookId": 104,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publishedDate": "1951-07-16",
+      "category": "fiction",
+      "image": "https://example.com/images/the-catcher-in-the-rye.jpg"
+    },
+    {
+      "bookId": 105,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publishedDate": "1937-09-21",
+      "category": "fiction",
+      "image": "https://example.com/images/the-hobbit.jpg"
+    },
+    {
+      "bookId": 106,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-01-01",
+      "category": "fiction",
+      "image": "https://example.com/images/brave-new-world.jpg"
+    },
+    {
+      "bookId": 201,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "publishedDate": "2011-01-01",
+      "category": "non-fiction",
+      "image": "https://example.com/images/sapiens.jpg"
+    },
+    {
+      "bookId": 202,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "publishedDate": "2018-02-20",
+      "category": "non-fiction",
+      "image": "https://example.com/images/educated.jpg"
+    },
+    {
+      "bookId": 203,
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "publishedDate": "1947-06-25",
+      "category": "non-fiction",
+      "image": "https://example.com/images/anne-frank-diary.jpg"
+    },
+    {
+      "bookId": 204,
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "publishedDate": "2010-02-02",
+      "category": "non-fiction",
+      "image": "https://example.com/images/henrietta-lacks.jpg"
+    },
+    {
+      "bookId": 205,
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "publishedDate": "2008-11-18",
+      "category": "non-fiction",
+      "image": "https://example.com/images/outliers.jpg"
+    },
+    {
+      "bookId": 206,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "publishedDate": "2018-10-16",
+      "category": "non-fiction",
+      "image": "https://example.com/images/atomic-habits.jpg"
+    },
+    {
+      "bookId": 301,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishedDate": "1813-01-28",
+      "category": "romance",
+      "image": "https://example.com/images/pride-and-prejudice.jpg"
+    },
+    {
+      "bookId": 302,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "publishedDate": "1847-10-16",
+      "category": "romance",
+      "image": "https://example.com/images/jane-eyre.jpg"
+    },
+    {
+      "bookId": 303,
+      "title": "The Notebook",
+      "author": "Nicholas Sparks",
+      "publishedDate": "1996-10-01",
+      "category": "romance",
+      "image": "https://example.com/images/the-notebook.jpg"
+    },
+    {
+      "bookId": 304,
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "publishedDate": "2012-01-05",
+      "category": "romance",
+      "image": "https://example.com/images/me-before-you.jpg"
+    },
+    {
+      "bookId": 305,
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "publishedDate": "1936-06-30",
+      "category": "romance",
+      "image": "https://example.com/images/gone-with-the-wind.jpg"
+    },
+    {
+      "bookId": 306,
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "publishedDate": "2012-01-10",
+      "category": "romance",
+      "image": "https://example.com/images/the-fault-in-our-stars.jpg"
+    }
+  ],
+  "bestReviews": [
+    {
+      "reviewId": 1,
+      "bookId": 101,
+      "reviewerName": "Alice",
+      "rating": 5,
+      "comment": "A powerful and disturbing vision of the future.",
+      "reviewDate": "2026-02-13"
+    },
+    {
+      "reviewId": 2,
+      "bookId": 201,
+      "reviewerName": "John",
+      "rating": 5,
+      "comment": "Extremely insightful and thought-provoking.",
+      "reviewDate": "2026-02-10"
+    },
+    {
+      "reviewId": 3,
+      "bookId": 301,
+      "reviewerName": "Emma",
+      "rating": 5,
+      "comment": "One of the greatest love stories ever written.",
+      "reviewDate": "2026-02-14"
+    }
+  ],
+  "userProfile": {
+    "userId": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "role": "reader",
+    "createdAt": "2026-01-10",
+    "review": {
+      "reviewId": 1,
+      "bookId": 101,
+      "bookTitle": "1984",
+      "rating": 5,
+      "comment": "A powerful and disturbing vision of the future.",
+      "reviewDate": "2026-02-13",
+      "bookImage": "https://example.com/images/1984.jpg"
+    }
+  }
+
+  
+}
