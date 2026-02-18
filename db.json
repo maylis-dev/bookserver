@@ -1,0 +1,318 @@
+{
+  "books": [
+    {
+      "id": 101,
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "category": "fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771260605/images_jqeeq6.jpg",
+      "synopsis": "A dystopian novel set in a totalitarian society ruled by Big Brother. Winston Smith secretly rebels against constant surveillance and propaganda, questioning truth, freedom, and individuality in a world of oppression.",
+      "review": {
+        "reviewerName": "Alice",
+        "comment": "An intense and thought-provoking read!"
+      }
+    },
+    {
+      "id": 102,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishedDate": "1960-07-11",
+      "category": "fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262022/61ILSxalgdL._UF1000_1000_QL80__jlfdra.jpg",
+      "synopsis": "Through the eyes of young Scout Finch, the novel explores racial injustice in the American South as her father, Atticus Finch, defends a Black man falsely accused of a crime.",
+      "review": {
+        "reviewerName": "Michael",
+        "comment": "A deeply moving story about justice and empathy."
+      }
+    },
+    {
+      "id": 103,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishedDate": "1925-04-10",
+      "category": "fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262064/71V1cA2fiZL._AC_UF1000_1000_QL80__anu13l.jpg",
+      "synopsis": "Nick Carraway narrates the tragic story of Jay Gatsby, a mysterious millionaire obsessed with rekindling his love for Daisy Buchanan during the glamorous yet hollow Jazz Age.",
+      "review": {
+        "reviewerName": "Sophie",
+        "comment": "A beautifully tragic tale of love and ambition."
+      }
+    },
+    {
+      "id": 104,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publishedDate": "1951-07-16",
+      "category": "fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262067/8125BDk3l9L._AC_UF1000_1000_QL80__czgloo.jpg",
+      "synopsis": "Holden Caulfield recounts his days in New York City after being expelled from school, revealing his struggles with alienation, identity, and the loss of innocence.",
+      "review": {
+        "reviewerName": "Daniel",
+        "comment": "A relatable story about growing up and feeling lost."
+      }
+    },
+    {
+      "id": 105,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publishedDate": "1937-09-21",
+      "category": "fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262067/Capture-decran-2025-09-16-a-16.24.40-320x520_gyloie.png",
+      "synopsis": "Bilbo Baggins embarks on an unexpected journey with a group of dwarves to reclaim their homeland from the dragon Smaug, discovering courage and adventure along the way.",
+      "review": {
+        "reviewerName": "Liam",
+        "comment": "A magical adventure that never gets old!"
+      }
+    },
+    {
+      "id": 106,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-01-01",
+      "category": "fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262087/t%C3%A9l%C3%A9chargement_xnwt5z.jpg",
+      "synopsis": "In a futuristic society driven by technology and pleasure, individuality is suppressed. Bernard Marx begins to question a world where happiness is manufactured and freedom is sacrificed.",
+      "review": {
+        "reviewerName": "Olivia",
+        "comment": "Frighteningly realistic and thought-provoking."
+      }
+    },
+    {
+      "id": 201,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "publishedDate": "2011-01-01",
+      "category": "non-fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262087/t%C3%A9l%C3%A9chargement_xnwt5z.jpg",
+      "synopsis": "Explores the history of Homo sapiens from ancient ancestors to the modern age, examining how biology, culture, and technology shaped human societies.",
+      "review": {
+        "reviewerName": "Ethan",
+        "comment": "Fascinating insights into human history."
+      }
+    },
+    {
+      "id": 202,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "publishedDate": "2018-02-20",
+      "category": "non-fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262087/t%C3%A9l%C3%A9chargement_xnwt5z.jpg",
+      "synopsis": "A memoir of Tara Westover’s journey from growing up in a strict, survivalist family with no formal schooling to earning a PhD from Cambridge University.",
+      "review": {
+        "reviewerName": "Sophia",
+        "comment": "Inspiring and eye-opening."
+      }
+    },
+    {
+      "id": 203,
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "publishedDate": "1947-06-25",
+      "category": "non-fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262068/t%C3%A9l%C3%A9chargement_1_dcdy8b.jpg",
+      "synopsis": "Anne Frank’s diary documents her life in hiding during World War II, offering a deeply personal and moving account of hope, fear, and resilience.",
+      "review": {
+        "reviewerName": "Mia",
+        "comment": "A profoundly moving personal account."
+      }
+    },
+    {
+      "id": 204,
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "publishedDate": "2010-02-02",
+      "category": "non-fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262070/t%C3%A9l%C3%A9chargement_2_idwzgc.jpg",
+      "synopsis": "Tells the story of Henrietta Lacks, whose cancer cells were taken without her knowledge and became one of the most important tools in medical research.",
+      "review": {
+        "reviewerName": "Noah",
+        "comment": "A fascinating story blending science and ethics."
+      }
+    },
+    {
+      "id": 205,
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "publishedDate": "2008-11-18",
+      "category": "non-fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262072/t%C3%A9l%C3%A9chargement_3_jy3yxa.jpg",
+      "synopsis": "Examines the factors behind extraordinary success, arguing that culture, timing, opportunity, and practice play a major role in high achievement.",
+      "review": {
+        "reviewerName": "Lucas",
+        "comment": "Makes you rethink what leads to success."
+      }
+    },
+    {
+      "id": 206,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "publishedDate": "2018-10-16",
+      "category": "non-fiction",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262073/t%C3%A9l%C3%A9chargement_4_fvi8e9.jpg",
+      "synopsis": "Provides practical strategies for building good habits and breaking bad ones by focusing on small, consistent improvements over time.",
+      "review": {
+        "reviewerName": "Emma",
+        "comment": "Practical tips that are easy to follow."
+      }
+    },
+    {
+      "id": 301,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishedDate": "1813-01-28",
+      "category": "romance",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262076/t%C3%A9l%C3%A9chargement_5_paydts.jpg",
+      "synopsis": "Elizabeth Bennet navigates issues of manners, upbringing, and marriage while clashing with the reserved Mr. Darcy in this timeless romantic comedy.",
+      "review": {
+        "reviewerName": "Olivia",
+        "comment": "A timeless romance full of wit and charm."
+      }
+    },
+    {
+      "id": 302,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "publishedDate": "1847-10-16",
+      "category": "romance",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262077/t%C3%A9l%C3%A9chargement_6_a5voml.jpg",
+      "synopsis": "An orphaned governess, Jane Eyre, falls in love with the mysterious Mr. Rochester while uncovering secrets that test her morals and independence.",
+      "review": {
+        "reviewerName": "Henry",
+        "comment": "A beautifully written story of love and resilience."
+      }
+    },
+    {
+      "id": 303,
+      "title": "The Notebook",
+      "author": "Nicholas Sparks",
+      "publishedDate": "1996-10-01",
+      "category": "romance",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262079/t%C3%A9l%C3%A9chargement_7_iwtpt2.jpg",
+      "synopsis": "A lifelong love story between Noah and Allie, whose romance faces social barriers and the test of time.",
+      "review": {
+        "reviewerName": "Grace",
+        "comment": "A heartfelt story that brings tears and smiles."
+      }
+    },
+    {
+      "id": 304,
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "publishedDate": "2012-01-05",
+      "category": "romance",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262085/t%C3%A9l%C3%A9chargement_8_dm3el9.jpg",
+      "synopsis": "Louisa Clark becomes a caregiver for Will Traynor, a paralyzed man, and their unexpected relationship changes both of their lives.",
+      "review": {
+        "reviewerName": "Isabella",
+        "comment": "Emotional and beautifully told."
+      }
+    },
+    {
+      "id": 305,
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "publishedDate": "1936-06-30",
+      "category": "romance",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262087/t%C3%A9l%C3%A9chargement_9_or1wv3.jpg",
+      "synopsis": "Set during the American Civil War, Scarlett O’Hara struggles to survive and find love amid the destruction of the Old South.",
+      "review": {
+        "reviewerName": "William",
+        "comment": "Epic story with unforgettable characters."
+      }
+    },
+    {
+      "id": 306,
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "publishedDate": "2012-01-10",
+      "category": "romance",
+      "image": "https://res.cloudinary.com/dwzu86xf5/image/upload/v1771262087/t%C3%A9l%C3%A9chargement_10_x5tmm8.jpg",
+      "synopsis": "Teenagers Hazel and Augustus fall in love while battling cancer, exploring themes of life, death, and meaning.",
+      "review": {
+        "reviewerName": "Ava",
+        "comment": "Heartbreaking and inspiring all at once."
+      }
+    }
+  ],
+  "comments": [
+    {
+      "user": "gigi",
+      "review": "hadid",
+      "bookId": 202,
+      "id": 4
+    },
+    {
+      "user": "hanna",
+      "review": "belle",
+      "bookId": 205,
+      "id": 5
+    },
+    {
+      "user": "bb,b,",
+      "review": " , , ",
+      "bookId": 101,
+      "id": 9
+    },
+    {
+      "user": "bnn",
+      "review": " bn",
+      "bookId": 202,
+      "id": 10
+    },
+    {
+      "user": ",v",
+      "review": "vbj",
+      "bookId": 201,
+      "id": 11
+    },
+    {
+      "user": "bnbn",
+      "review": "nbbn",
+      "bookId": 105,
+      "id": 12
+    }
+  ],
+  "reviews": [
+    {
+      "reviewId": 1,
+      "bookId": 101,
+      "reviewerName": "Alice",
+      "rating": 5,
+      "comment": "A powerful and disturbing vision of the future.",
+      "reviewDate": "2026-02-13"
+    },
+    {
+      "reviewId": 2,
+      "bookId": 201,
+      "reviewerName": "John",
+      "rating": 5,
+      "comment": "Extremely insightful and thought-provoking.",
+      "reviewDate": "2026-02-10"
+    },
+    {
+      "reviewId": 3,
+      "bookId": 301,
+      "reviewerName": "Emma",
+      "rating": 5,
+      "comment": "One of the greatest love stories ever written.",
+      "reviewDate": "2026-02-14"
+    }
+  ],
+  "userProfile": {
+    "userId": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "role": "reader",
+    "createdAt": "2026-01-10",
+    "review": {
+      "reviewId": 1,
+      "bookId": 101,
+      "bookTitle": "1984",
+      "rating": 5,
+      "comment": "A powerful and disturbing vision of the future.",
+      "reviewDate": "2026-02-13",
+      "bookImage": "https://example.com/images/1984.jpg"
+    }
+  }
+}
